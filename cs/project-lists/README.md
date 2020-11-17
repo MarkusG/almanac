@@ -2,3 +2,4 @@
 * [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 * [pro/g/ramming challenges](https://raw.githubusercontent.com/siliciusQ/Programming-challenges-v4.0/project-4/programming_challenges_v4-0.png)
 * [What to Code?](https://what-to-code.com/)
+* [Advent of Code](https://adventofcode.com/) - complete the challenges from past years at https://adventofcode.com/YEAR
